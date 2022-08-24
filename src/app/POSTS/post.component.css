@@ -1,0 +1,51 @@
+
+    .MainDiv{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    }
+    h2{
+      margin-top: 50px !important;
+     
+    }
+    textarea{
+      height: 100px;
+      border: 0;
+    }
+      
+      .ButSty{
+        background-color:hsla(183, 27%, 33%, 0.973);
+        color: rgb(216, 244, 244);
+        align-items: center;
+        margin: 4px;
+        border: 0.1px;
+        border-radius: 2px;
+        font-size: 17px;
+      }
+      a{
+        color: hsla(195, 65%, 71%, 0.973);
+        margin-left: 20px;
+        font-size:17px;
+      }
+      .InputDiv{
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        border: 4px;
+        border-color: black;
+        box-shadow: 0px 0px 4px rgb(183, 172, 172);
+
+      }
+     .shareButt{
+      width: 50px !important;
+
+     }
+      
+    p{
+      box-shadow: 0px 0px 5px rgb(157, 137, 137);
+      margin-top: 0;
+
+    }
+   

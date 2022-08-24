@@ -1,0 +1,61 @@
+
+.maindiv{
+    display: flex;
+    flex: 3;
+    min-height: 100vh;
+    background-color: rgb(165, 83, 241);
+    margin: 1;
+    flex-direction:column;
+
+}
+.top    {
+    background-color:hsla(182, 57%, 73%, 0.973);
+    height: 60px;
+    align-items: center;
+}
+.down{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.mainsection{
+    display: flex;
+    flex: 4;
+    height: 100vh;
+    background-color: rgb(55, 59, 59);
+    flex-direction: column;
+
+}
+h1{
+    margin-left: 30px;
+    color: rgb(163, 204, 240);
+}
+
+
+.RouItems{
+    background-color:red;
+    height: 40px;
+    align-items: center !important;
+    text-align: center;
+    border-bottom: 3px rgb(104, 119, 135) solid !important;
+    
+}
+.RoutingItems:hover{
+    background-color: rgb(7, 36, 65);
+
+}
+.leftSection{
+ 
+    background-color: rgb(152, 197, 242);
+    display: flex;
+    flex: 1;
+    height: 100vh;
+    flex-direction: column;
+}
+p{
+    height: inherit;
+    margin: 0px;
+    padding-top: 10px;
+    text-align: center;
+}

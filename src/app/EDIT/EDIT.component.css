@@ -1,0 +1,38 @@
+
+.input{
+    display: flex;
+    flex-direction: row;
+    margin: 8px;
+    
+}
+.inputL{
+    width: 70px ;
+}
+
+button{
+    background-color: hsla(195, 29%, 43%, 0.973);
+    color: rgb(200, 212, 212);
+    width: 90px;
+    height: 30px;
+    border: 0;
+    border-radius: 5px;
+    margin-left:87px;
+}
+
+.secondiv{
+    box-shadow: 0px 0px 5px rgb(210, 191, 191)  ;
+  width: fit-content;
+padding: 15px; 
+}
+
+
+form{
+    margin-bottom: 10px;
+}
+
+.MainDiv{
+    margin: 55px;
+    padding: 0;
+  }
+  
+ 
